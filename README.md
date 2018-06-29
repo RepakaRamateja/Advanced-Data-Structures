@@ -8,3 +8,12 @@ SrNo      |    ProjectName                  | Data Structure Algorithms Used
 2         |  Document Handling System       | HashTable, Queue, Trie
 3         |  File Dependency Graph Analyzer | Graphs
 4         |  String Matching Algorithms Benchmarked | AhoCorasick, BitOriented, BoyerMoore, KnuthMorrisPratt, RabinKarp, SuffixTree
+
+
+Sorting Algorithms Benchmarking :
+
+Below is the github link of above project
+
+https://github.com/RepakaRamateja/Sorting-Algorithm-Benchmarking
+
+
